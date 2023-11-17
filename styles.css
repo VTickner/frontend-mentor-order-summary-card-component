@@ -138,6 +138,10 @@ a:focus {
   gap: var(--5px);
 }
 
+.order__plan--type {
+  font-size: var(--16px);
+}
+
 .order__edit {
   color: var(--bright-blue);
 }
